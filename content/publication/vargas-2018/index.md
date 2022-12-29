@@ -1,0 +1,71 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Factors enabling comprehensive maternal health services in the benefits package
+  of emerging financing schemes: A crosssectional analysis from 1990 to 2014'
+subtitle: ''
+summary: ''
+authors:
+- Veronica Vargas
+- Sayem Ahmed
+- Alayne M. Adams
+tags: []
+categories: []
+date: '2018-01-01'
+lastmod: 2022-12-25T19:25:15Z
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-12-25T19:25:15.054124Z'
+publication_types:
+- '2'
+abstract: © 2018 Vargas et al. Introduction Maternal delivery is the costliest event
+  during pregnancy, especially if a complicated delivery occurs that requires emergency
+  hospital services. A health financing scheme or program that covers comprehensive
+  maternal services, including specialized hospital services in the benefits health
+  package, enhances maternal survival and improves financial risk protection. Objectives
+  The objective of this study is to identify factors that enable the inclusion of
+  comprehensive maternal services in the benefits package of emerging health financing
+  schemes in low and middle-income countries across selected world regions. Comprehensive
+  care is presumed if, in addition to normal delivery, primary health care, and secondary
+  or tertiary hospital care are included. Methods Multilevel regression analysis is
+  performed on 220 health financing schemes and programs initiated during the period
+  1990-2014, in 40 countries in Sub-Saharan Africa, Asia, and Latin America. Findings
+  About two-thirds of emerging health financing schemes explicitly include maternal
+  care in the benefits package, and less-than-half cover comprehensive maternal services.
+  Provision of any type of maternal services and comprehensive services is significantly
+  associated with the presence of donors/philanthropies as funders, and beneficiaries
+  possessing an ID card that links them to entitled services. Other enabling factors
+  are prepayment and risk pooling. However, private and community insurances are negatively
+  associated with covering comprehensive maternal services, because they are subject
+  to market failures, such as adverse and risk selection. Conclusions Emerging health
+  financing schemes in low and upper-middle-income countries lag in coverage of maternal
+  care. Advancing financial protection of these services in the health package needs
+  policy attention, including government oversight and mandatory regulations. The
+  enabling factors identified can enrich the ongoing discourse on Universal Health
+  Coverage.
+publication: '*PLOS ONE*'
+doi: 10.1371/journal.pone.0201398
+links:
+- name: URL
+  url: https://pubmed.ncbi.nlm.nih.gov/30252840/
+- name: PDF
+  url: "uploads/publishedpdf/Vargas, Ahmed, Adams - 2018 - Factors enabling comprehensive maternal health services in the benefits package of emerging financing sche-annotated.pdf"
+  
+  
+
+---
