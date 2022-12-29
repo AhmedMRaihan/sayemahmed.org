@@ -61,8 +61,8 @@ Sayem’s research deals with estimating health economic burden and economic eva
 
 
 
-<div class=row>
-<div class=col-md-7>
+
+
 <h3 align="left">Research interest</h3>
 
 <dl  align="left">
@@ -73,10 +73,11 @@ Sayem’s research deals with estimating health economic burden and economic eva
   <dd>- Economics of noncommunicable diseases</dd> 
   <dd>- Health economic modelling</dd>  
 </dl>
-</div>
 
-<div class=column>
-<h3 align="left">Education</h3>
+
+
+<div class=col-md-7>
+<h3 align="left"> Education </h3>
 <ul class="ul-edu fa-ul"><li><i class="fa-li fas fa-graduation-cap"></i>
 <div class=description><p class=course  align="left">PhD in Health Economics, 2020</p><p class=institution  align="left">Karolinska Instutet, Stockholm, Sweden</p>
 
