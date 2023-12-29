@@ -1,5 +1,5 @@
 ---
-date: "2022-10-24"
+date: "2023-12-29"
 sections:
 - block: hero
 #  content:
@@ -112,11 +112,29 @@ sections:
   content:
     date_format: Jan 2006
     items:
+        
+    - company: Bangor University
+      company_logo: org-bangor
+      company_url: "https://research.bangor.ac.uk/portal/en/researchers/sayem-ahmed(07140f09-b74b-4b01-bb31-372842be054a).html"
+      date_end: ""
+      date_start: "2023-12-11"
+      description: |2-
+          Responsibilities include:
+
+          * Working on research projects including economic evaluation and modelling at CHEME
+          * Provide training and mentorship for other researchers within the CHEME research centre
+          *	Disseminate research findings within CHEME and academic conferences
+          *	Scientific publication from health economics studies
+          *	Lead on the health economic component in the development of grant applications for new projects involving the CHEME research centre
+          *	Supervise MSc and PhD students 
+
+      location: Bangor, United Kingdom
+      title: Research Fellow (Health Economist) 
     
     - company: University of Glasgow
       company_logo: org-univglasgow
       company_url: "https://www.gla.ac.uk/schools/healthwellbeing/staff/sayemahmed/"
-      date_end: ""
+      date_end: "2023-11-30"
       date_start: "2021-12-01"
       description: |2-
           Responsibilities include:
@@ -128,7 +146,7 @@ sections:
           *	Scientific publication from health economics studies
 
       location: Glasgow, United Kingdom
-      title: Research Assistant (Health Economist) 
+      title: Research Associate (Health Economist) 
     
     - company: Oxford University of Clinical Research (OUCRU)
       company_logo: org-oucru
@@ -332,12 +350,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Glasgow
+      city: Bangor
       country: United Kingdom
       country_code: UK
-      postcode: "G12 8RZ"
-      region: Lanarkshire
-      street: 1 Lilybank Gardens
+      postcode: "LL57 2PZ"
+      region: Gwynedd
+      street: Holyhead Rd
     appointment_url: https://calendly.com/sayemahmed
     autolink: true
     contact_links:
@@ -354,7 +372,7 @@ sections:
       link: https://zoom.com
       name: Zoom Me
     directions: Enter Building 2 and take the stairs to Office 204 on Floor 2
-    email: sayem.ahmed@glasgow.ac.uk
+    email: sayem.ahmed@bangor.ac.uk
     form:
       formspree:
         id: null
