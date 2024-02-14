@@ -8,7 +8,7 @@ education:
   - course: MSc in Statistics
     institution: University of Dhaka
     year: 2008
-- course: Master’s in Health Economics
+  - course: Masters in Health Economics
     institution: University of Dhaka
     year: 2007
   - course: BSc in Statistics
