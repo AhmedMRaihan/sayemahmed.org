@@ -47,6 +47,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sayem72936/
+- icon: ORCID
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9499-1500
 #- icon: cv
 #  icon_pack: ai
 #  link: uploads/resume.pdf
