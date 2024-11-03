@@ -59,13 +59,19 @@ superuser: true
 title: Dr Sayem Ahmed
 ---
 
-Dr Sayem Ahmed is working as a Research Fellow (Health Economist) at the Centre for Health Economics and Medicine Evaluation (CHEME), Bangor University, UK. He holds a PhD degree in health economics from Karolinska Institutet, Sweden. Before joining CHEME, Dr Ahmed worked at the University of Glasgow in UK, Oxford University Clinical Research Unit (OUCRU) in Vietnam, Liverpool School of Tropical Medicine (LSTM) in UK and icddr,b in Bangladesh. He was involved as consultant with the World Health Organization, The World Bank, and the Asian Development Bank.
+Dr Sayem Ahmed joined Brunel University London in August 2024 as a tenured Lecturer in Health Economics. He leads health economics teaching in the Division of Global Public Health and is the Programme Director of MSc Health Economics and Health Policy (online). His research specializes in health economics, particularly health technology assessment (HTA), economic evaluations, and healthcare financing, focusing on evidence-based resource allocation. Sayem completed his PhD in Health Economics at Karolinska Institutet, Sweden, in 2020, where he explored healthcare financing in low- and middle-income countries.
 {style="text-align: justify;"}
 
-Ahmed’s research deals with estimating health economic burden and economic evaluation of new health technologies and interventions. In addition, Ahmed conducted research on health insurance, healthcare financing, universal health coverage, and health system efficiency in low- and middle-income countries. He teaches health economics and supervises MSc and PhD students.
+Before Brunel, he worked on economic evaluations and decision modelling at Bangor University, contributing to the RENAL-HF project, an NIHR-funded AI-based monitoring system for renal function in heart failure patients. At the University of Glasgow, he co-led the HTA Policy and Principles module and conducted cost-effectiveness analyses of several NIHR-funded studies, including the CHOICE study on the home vs. hospital cervical ripening, the STOPPIT-3 study on antenatal corticosteroids on twin pregnancies and PERFORM trial on rehabilitation programs for multimorbidity. He secured a EuroQol Group grant for a health-related quality-of-life measurement tool (EQ-5D) valuation in Bangladesh.
 {style="text-align: justify;"}
 
-Dr Ahmed is working on the RENAL-HF at CHEME, undertaking economic evaluations alongside clinical trials. This NIHR-funded program is developing and evaluating an artificial intelligence-based monitoring system that predicts the change in renal function in patients with heart failure. In this project, Dr Ahmed is conducting an economic evaluation using UK's large health datasets (e.g., Clinical Practice Research Datalink -CPRD, Hospital Episode Statistics -HES) and health economics modelling approach. This study will generate much-needed evidence to reduce kidney injury risk among heart failure patients.
+Previously, as lead Health Economist at the Oxford University Clinical Research Unit (OUCRU) in Vietnam, Sayem integrated economic evaluations into clinical trials for infectious diseases like dengue, malaria, HIV and tuberculosis. His work included a One Health study on agricultural antimicrobial use in Vietnam. His role at Liverpool School of Tropical Medicine involved health economic assessments of intervention targeting neglected tropical diseases in sub-Saharan Africa.
+{style="text-align: justify;"}
+
+Sayem began his research career in 2011 at icddr,b in Bangladesh, where he led multiple research projects. At icddr,b, Sayem secured grants from the Swedish International Development Cooperation Agency (SIDA), the USAID Bangladesh and the UK Research and Innovation (UKRI). His experience includes a role at the Bangladesh National Health Account Committee, Ministry of Health and Family Welfare. 
+{style="text-align: justify;"}
+
+Since 2015, he has done several consultancies for the World Health Organization (WHO), the World Bank and the Asian Development Bank on universal health coverage. Recently, he was appointed to the WHO Expert Panel on Health Valuation, where he advises the WHO and the World Bank on methods for assessing the burden of foodborne diseases. He is keen on health economics research and teaching collaborations.
 {style="text-align: justify;"}
 
 
