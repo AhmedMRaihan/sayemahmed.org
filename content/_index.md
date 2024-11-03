@@ -117,7 +117,7 @@ sections:
       company_logo: org-brunel
       company_url: "https://www.brunel.ac.uk/people/sayem-ahmed"
       date_end: ""
-      date_start: "2024-08-1"
+      date_start: "2024-08-01"
       description: |2-
           Responsibilities include:
 
