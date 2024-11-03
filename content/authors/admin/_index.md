@@ -15,7 +15,7 @@ education:
     institution: University of Dhaka
     year: 2006
     
-email: "sayem72936@youtlook.com"
+email: "sayem72936@outlook.com"
 first_name: Sayem
 highlight_name: true
 interests:
@@ -25,9 +25,9 @@ interests:
 - Health Equity
 last_name: Ahmed
 organizations:
-- name: Bangor University
-  url: https://www.bangor.ac.uk/staff/shs/sayem-ahmed-671130/en
-role: Research Fellow in Health Economics
+- name: Brunel University London
+  url: https://www.brunel.ac.uk/people/sayem-ahmed
+role: Lecturer in Health Economics
 social:
 - icon: envelope
   icon_pack: fas
