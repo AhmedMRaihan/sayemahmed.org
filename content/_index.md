@@ -122,10 +122,10 @@ sections:
           Responsibilities include:
 
           * Provide innovative teaching methods to encourage participation and promote self-development and education
-          * To seek new areas of research and carry out high-quality research to enhance the research assessment rating of the department/research institute/college
+          * To seek new areas of research and carry out high-quality research to enhance the research assessment rating of the department, research institute and college
           * To develop collaborative research programmes internally and externally
           * Publication of research in refereed publications and presentations at conferences
-          * Application and attracting of external funding/grants
+          * Application and attracting of external research funding
           * Management of research grants
           * Supervise MSc and PhD students 
 
