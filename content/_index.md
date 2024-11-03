@@ -112,11 +112,30 @@ sections:
   content:
     date_format: Jan 2006
     items:
-        
+    
+    - company: Brunel University London
+      company_logo: org-brunel
+      company_url: "https://www.brunel.ac.uk/people/sayem-ahmed"
+      date_end: ""
+      date_start: "2024-08-1"
+      description: |2-
+          Responsibilities include:
+
+          * Provide innovative teaching methods to encourage participation and promote self-development and education
+          * To seek new areas of research and carry out high-quality research to enhance the research assessment rating of the department/research institute/college
+          * To develop collaborative research programmes internally and externally
+          * Publication of research in refereed publications and presentations at conferences
+          * Application and attracting of external funding/grants
+          * Management of research grants
+          * Supervise MSc and PhD students 
+
+      location: London, United Kingdom
+      title: Lecturer in Health Economics 
+            
     - company: Bangor University
       company_logo: org-bangor
       company_url: "https://research.bangor.ac.uk/portal/en/researchers/sayem-ahmed(07140f09-b74b-4b01-bb31-372842be054a).html"
-      date_end: ""
+      date_end: "2024-07-31"
       date_start: "2023-12-11"
       description: |2-
           Responsibilities include:
@@ -372,7 +391,7 @@ sections:
       link: https://zoom.com
       name: Zoom Me
     directions: Enter Building 2 and take the stairs to Office 204 on Floor 2
-    email: sayem.ahmed@bangor.ac.uk
+    email: sayem.ahmed@brunel.ac.uk
     form:
       formspree:
         id: null
